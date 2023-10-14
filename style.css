@@ -162,3 +162,15 @@
   font-weight: 500;
   margin-bottom: 10px;
 }
+
+@media screen and (max-width: 600px) {
+  .quiz_box {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .time_line {
+    max-width: 100%;
+    height: 4px;
+  }
+}
